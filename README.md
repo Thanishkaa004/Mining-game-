@@ -1,1 +1,2 @@
-# Mining-game-
+# Geologist
+Geologist Project
